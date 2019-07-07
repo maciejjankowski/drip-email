@@ -1,6 +1,6 @@
 * [drip email marketing tool](https://github.com/maciejjankowski/2019/wiki/How-to-build-drip-email-marketing-tool)
 
-# Drip emai: tell stories using email
+# Drip email: tell stories using email
 
 ## Features
 * creating custom scenario-based mailing campaigns 
